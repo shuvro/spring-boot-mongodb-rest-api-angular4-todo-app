@@ -1,4 +1,4 @@
-# Spring Boot, MongoDB, Angular 4, Restful API
+# Spring Boot, MongoDB, Angular 4, RESTFul API
 
 Build TODO Application using Spring Boot, MongoDB, REST API with AngularJS
 
